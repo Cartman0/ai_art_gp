@@ -17,3 +17,8 @@
 - 13. 世界大戦
 - 14. 現代
 - 15. 未来
+
+## 使用ツール
+
+- Memeplex: https://memeplex.app/
+- Krita
